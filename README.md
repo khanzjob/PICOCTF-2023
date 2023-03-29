@@ -14,7 +14,6 @@ Our team came 7th/519  AFRICAN teams
 Our team also became 46/6925 teams on the global leaderboard
 ![image](https://user-images.githubusercontent.com/84052314/228623952-67cd8847-db16-41d3-82f2-fcb456b018fa.png)
 
+![image](https://user-images.githubusercontent.com/84052314/228624558-be4639e8-961f-4d46-818f-96a6a9b515d5.png)
 
-<img width="665" alt="image" src="https://user-images.githubusercontent.com/66155978/228461336-6646c6d5-1376-4e24-a229-f01afed0e9ba.png">
-
-<img width="665" alt="image" src="https://user-images.githubusercontent.com/66155978/228461471-08b719e4-f180-4383-bbe0-690d3a9a2662.png">
+![image](https://user-images.githubusercontent.com/84052314/228624801-276f6455-ee75-4ba3-a1eb-422e43b3000c.png)
