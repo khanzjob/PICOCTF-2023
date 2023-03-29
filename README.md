@@ -8,7 +8,12 @@ Writeup of different challenges from the PicoCTF 2023 edition.
 
 # Score
 
-Our team came 426/6925 teams
+Our team came 7th/519  AFRICAN teams
+![image](https://user-images.githubusercontent.com/84052314/228624142-e155225f-9047-4ef4-9e9e-4184c20bd23f.png)
+
+Our team also became 46/6925 teams on the global leaderboard
+![image](https://user-images.githubusercontent.com/84052314/228623952-67cd8847-db16-41d3-82f2-fcb456b018fa.png)
+
 
 <img width="665" alt="image" src="https://user-images.githubusercontent.com/66155978/228461336-6646c6d5-1376-4e24-a229-f01afed0e9ba.png">
 
